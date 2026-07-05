@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "session_id": "019f306d-c95a-7de2-9a22-918944d12b79",
+  "source": "codex",
+  "title": "分析目前项目的工具沙箱隔离，还有用户隔离是怎么做的（从小白学习的角度讲解，不是排查实现问题的角度）。\n",
+  "description": "",
+  "tags": [],
+  "starred": false,
+  "origin_device_id": "0a8ef563-c9d7-4405-b70b-a5c1837d8057",
+  "origin_cwd": "e:\\fromGithub\\bkcrab",
+  "relative_store_path": "2026/07/05/rollout-2026-07-05T11-58-54-019f306d-c95a-7de2-9a22-918944d12b79.jsonl",
+  "started_at": "2026-07-05T03:58:54.211Z",
+  "last_active_at": "2026-07-05T04:40:21.898Z",
+  "updated_at": "2026-07-05T05:24:39.014Z"
+}
